@@ -71,6 +71,6 @@ SuperStore Sales Dataset
 
 ## 📬 Connect With Me
 
-LinkedIn: (your linkedin link)
+LinkedIn: (www.linkedin.com/in/ritik-rajput-41a6b12a4)
 
-GitHub: (your github link)
+GitHub: (https://github.com/ritikrajput93400-tech)
