@@ -41,9 +41,7 @@ The main goal of this project is to create a visually attractive and interactive
 ---
 
 ## 📊 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
+![Dashboard](Screenshot%202026-05-08%20222610.png)
 ---
 
 ## 📁 Dataset Used
